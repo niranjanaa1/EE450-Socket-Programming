@@ -1,5 +1,5 @@
 # EE450-Socket-Programming
-EE 450 PROJECT PROGRAMMING - Niranjanaa Mohanbabu - 2485318921
+EE 450 PROJECT PROGRAMMING - Niranjanaa Mohanbabu - 
 
 This is the repository collects the code of Fall 2022 EE450 Socket Programming Project. The project is C/C++ based and aims to simulate the client-server communication with TCP and a main server to its backend servers using UDP.
 I have already finished requires phases in description:
